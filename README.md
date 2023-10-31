@@ -16,7 +16,7 @@ https://librosa.org/doc/main/generated/librosa.stft.html
 
 - Beat tracker
   
-  https://librosa.org/doc/main/generated/librosa.beat.beat_track.html
+https://librosa.org/doc/main/generated/librosa.beat.beat_track.html
   
 - Compute the constant-Q transform of an audio signal.
   
