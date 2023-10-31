@@ -9,6 +9,6 @@
 - Short-time Fourier transform (STFT). 
 
 - Beat tracker
-- 
+  
 - Compute the constant-Q transform of an audio signal.
 
